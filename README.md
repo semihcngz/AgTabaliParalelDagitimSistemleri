@@ -11,3 +11,5 @@ https://github.com/0database-management
 Proje 3 - Video Link => https://www.youtube.com/watch?v=i10EyEWDiZU
 
 Proje 5 - Video Link => https://www.youtube.com/watch?v=a1uWeOwi0_k 
+
+Proje 7 - Video Link => https://www.youtube.com/watch?v=ZVkhzT_Tofg
